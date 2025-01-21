@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "7d9f678eb2e5039a486f9eeaf2339260"
-application_url = "https://ai-agent-chatbot.fly.dev"
+application_url = "https://1899-171-225-185-27.ngrok-free.app"
 embedded = true
 name = "ai-agent-chatbot"
 handle = "ai-agent-chatbot"
@@ -28,9 +28,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://ai-agent-chatbot.fly.dev/auth/callback",
-  "https://ai-agent-chatbot.fly.dev/auth/shopify/callback",
-  "https://ai-agent-chatbot.fly.dev/api/auth/callback"
+  "https://1899-171-225-185-27.ngrok-free.app/auth/callback",
+  "https://1899-171-225-185-27.ngrok-free.app/auth/shopify/callback",
+  "https://1899-171-225-185-27.ngrok-free.app/api/auth/callback"
 ]
 
 [pos]
