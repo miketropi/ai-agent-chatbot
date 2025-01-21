@@ -1,0 +1,4 @@
+{
+  "name": "ai-agent-chatbot",
+  "welcome": "Welcome to the {{TARGET}} extension!"
+}
